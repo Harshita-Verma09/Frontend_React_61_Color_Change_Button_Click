@@ -1,4 +1,4 @@
-**# ChangeColor_Click
+** ChangeColor_Click
 
 This React component demonstrates how to change the background color of a `div` element by clicking on different color buttons.
 
