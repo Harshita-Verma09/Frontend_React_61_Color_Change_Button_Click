@@ -57,7 +57,7 @@ function Example() {
   );
 }
 
-export default
+export default Example;
 
 ```
  ## Traffic_Light
