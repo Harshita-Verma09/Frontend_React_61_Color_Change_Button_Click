@@ -60,6 +60,7 @@ function Example() {
 export default
 
 ```
+ ## Traffic_Light
 This React component simulates a simple traffic light that automatically cycles through red, yellow, and green colors.
 
 ## Overview
