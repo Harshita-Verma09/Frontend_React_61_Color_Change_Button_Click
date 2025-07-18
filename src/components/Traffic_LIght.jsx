@@ -40,7 +40,7 @@ const TrafficLight = () => {
         let index = 0;
 
         const interval = setInterval(() => {
-            index = (index + 1) % colors.length; // Cycle through colors
+            index = (index + 1) % colors.length; 
             setColor(colors[index]);
         }, 2000);
 
